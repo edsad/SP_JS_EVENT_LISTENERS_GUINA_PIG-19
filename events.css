@@ -1,0 +1,35 @@
+body {
+  background-color: tan;
+}
+
+.blue {
+  color: blue;
+}
+
+.large {
+  font-size: 2.5em;
+}
+
+.addBorder {
+  border: 3px solid blue;
+}
+
+.rounded {
+  border-radius: 20px;
+}
+
+.article-section:first-child {
+  font-weight: bold;
+}
+
+.article-section:nth-child(6) {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.btn {
+  position: block;
+}
+
+
+
